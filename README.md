@@ -1,7 +1,7 @@
 [![MasterHead](https://th.bing.com/th/id/OIP.2eCCRFnphgA99qzIQi2HqwHaGJ?w=5531&h=4586&rs=1&pid=ImgDetMain)](https://brian-mwambia.onrender.com/)
 <h1 align="center">Hi 👋, I'm Brian Mwambia</h1>
 <h3 align="center">A passionate programmer from Kenya</h3>
-<img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwambiabrian&label=Profile%20views&color=0e75b6&style=flat" alt="mwambiabrian" /> </p>
 
