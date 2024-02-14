@@ -13,7 +13,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- **Programming Languages**: JavaScript,C#, Python, Java
+- **Programming Languages**: JavaScript(Node.js),C#, Python, Java
 - **Web Development**: HTML, CSS, JavaScript
 - **Frameworks**: Express,.NET,React,Angular
 - **Databases**: MongoDB, MSSQL Server.
