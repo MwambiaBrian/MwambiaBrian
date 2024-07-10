@@ -1,22 +1,22 @@
 [![MasterHead](https://th.bing.com/th/id/OIP.2eCCRFnphgA99qzIQi2HqwHaGJ?w=5531&h=4586&rs=1&pid=ImgDetMain)](https://brian-mwambia.onrender.com/)
-<h1 align="center">Hi there, I'm Brian Mwambia! 👋</h1>
-<h3 align="center">I'm a passionate programmer, cybersecurity enthusiast, and Content creator based in Nairobi, Kenya, with a keen interest in building software solutions that make a positive impact. Welcome to my GitHub profile!</h3>
+<h1 align="center">Hi there, I'm Brian Mwambia(abdulmalik)! 👋</h1>
+<h3 align="center">I'm a passionate Software developer, cloud enthusiast, and Content creator based in Nairobi, Kenya, with a keen interest in building software solutions that make a positive impact. Welcome to my GitHub profile!</h3>
 <img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwambiabrian&label=Profile%20views&color=0e75b6&style=flat" alt="mwambiabrian" /> </p>
 - 🎓 I hold a degree in Computer Science from Kenyatta University.
 
-- 🌱 I’m currently learning NestJS and GraphQL APIs.
+- 🌱 I’m currently learning Nest.js, Next.js and GraphQL APIs.
   
 - 💬 Ask me about anything related to Full-stack Software Development.
 - 📫 How to reach me: brianmwambia3@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
 
-- **Programming Languages**: JavaScript(Node.js),C#, Python, Java
+- **Programming Languages**: JavaScript,Typescript, Node.js,C#, Python, Java
 - **Web Development**: HTML, CSS, JavaScript
-- **Frameworks**: Express,.NET,React,Angular
-- **Databases**: MongoDB, MSSQL Server.
+- **Frameworks & Libraries**: Express,ASP.NET,React+Redux,ContextAPI,Next.js,Angular
+- **Databases**: MongoDB, CosmosDB,MSSQL Server.
 - **Tools**: Visual Studio Code, Visual Studio 2019, Git, npm, Postman Docker, dot net
 
 
