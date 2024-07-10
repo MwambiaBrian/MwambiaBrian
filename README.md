@@ -6,17 +6,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwambiabrian&label=Profile%20views&color=0e75b6&style=flat" alt="mwambiabrian" /> </p>
 - 🎓 I hold a degree in Computer Science from Kenyatta University.
 
-- 🌱 I’m currently learning Nest.js, Next.js and GraphQL APIs.
+- 🌱 I’m currently learning Nest.js, Next.js, and GraphQL APIs.
   
 - 💬 Ask me about anything related to Full-stack Software Development.
 - 📫 How to reach me: brianmwambia3@gmail.com
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages,Libraries, Frameworks and Tools:</h3>
 
-- **Programming Languages**: JavaScript,Typescript, Node.js,C#, Python, Java
+- **Programming Languages**: JavaScript,Typescript, C#, Python.
 - **Web Development**: HTML, CSS, JavaScript
-- **Frameworks & Libraries**: Express,ASP.NET,React+Redux,ContextAPI,Mongoose, EF, Next.js,Angular
-- **Databases**: MongoDB, CosmosDB,MSSQL Server.
+- **Frontend Development** React+Redux, ContextAPI, Next.js, React Query
+- **Backend Development**: Node.js,ASP.NET, Django,Mongoose, EF, 
+- **Databases**: MongoDB, CosmosDB,MSSQL Server,Postgres.
 - **DevOps**: GitHub, GitHub Actions
 - **Cloud**: Microsoft Azure, Azure App Services, Azure CosmosDB,
 - **Project Management**: Software Development Lifecycle, Agile Development Methodologies.
