@@ -1,6 +1,6 @@
 [![MasterHead](https://th.bing.com/th/id/OIP.2eCCRFnphgA99qzIQi2HqwHaGJ?w=5531&h=4586&rs=1&pid=ImgDetMain)](https://brian-mwambia.onrender.com/)
-<h1 align="center">Hi there, my name is Brian Abdulmalik! 👋</h1>
-<h3 align="center">I'm a passionate Software Engineer, cloud enthusiast, and Content creator based in Nairobi, Kenya, with a keen interest in building software solutions that make a positive impact. Welcome to my GitHub profile!</h3>
+<h1 align="center">Hi there, my name is Brian Mwambia(AbdulMalik)! 👋</h1>
+<h3 align="center">I'm a passionate Cloud Solution Developer  based in Nairobi, Kenya, with a keen interest in building software solutions that make a positive impact. Welcome to my GitHub profile!</h3>
 <img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwambiabrian&label=Profile%20views&color=0e75b6&style=flat" alt="mwambiabrian" /> </p>
