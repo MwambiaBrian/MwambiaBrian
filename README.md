@@ -14,9 +14,9 @@ Welcome to my GitHub profile—let's create, innovate, and collaborate!</h3>
 -📫 Contact: brianmwambia3@gmail.com
 
 <h3 align="left">What I’m Exploring:</h3>
-- Building microservices with NestJS and GraphQL for scalable solutions.
-- Enhancing skills in real-time data streaming and event-driven architecture.
-- Delving deeper into cloud-native application development ** and CI/CD pipelines.
+-Building microservices with NestJS and GraphQL for scalable solutions.
+-Enhancing skills in real-time data streaming and event-driven architecture.
+-Delving deeper into cloud-native application development ** and CI/CD pipelines.
 
 <h3 align="left">Languages,Libraries, Frameworks and Tools:</h3>
 
