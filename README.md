@@ -14,9 +14,9 @@ Welcome to my GitHub profile—let's create, innovate, and collaborate!</h3>
 -📫 Contact: brianmwambia3@gmail.com
 
 <h3 align="left">What I’m Exploring:</h3>
--Building microservices with NestJS and GraphQL for scalable solutions.
--Enhancing skills in real-time data streaming and event-driven architecture.
--Delving deeper into cloud-native application development ** and CI/CD pipelines.
+- Building microservices with NestJS and GraphQL for scalable solutions.
+- Enhancing skills in real-time data streaming and event-driven architecture.
+- Delving deeper into cloud-native application development and CI/CD pipelines.
 
 <h3 align="left">Languages,Libraries, Frameworks and Tools:</h3>
 
@@ -39,12 +39,12 @@ Welcome to my GitHub profile—let's create, innovate, and collaborate!</h3>
 Here are some projects I've been working on:
 
 1. [Real estate Application]([Link to project](https://two0fastestate.onrender.com/))
-    ([Link to Code](https://github.com/MwambiaBrian/Real-estate))
+    ([Source Code](https://github.com/MwambiaBrian/Real-estate))
    - Description:  A software development project focused on creating solutions for the real estate industry.
    - Technologies Used: Nodejs, MongoDB, React.
    
 3. [Chatting application]([Link to project](https://linkup-1uud.onrender.com/))
-   ([Link to Code](https://github.com/MwambiaBrian/chat-mern-app))
+   ([Source Code](https://github.com/MwambiaBrian/chat-mern-app))
    - Description: A project focused on building a real-time chat application using the MERN stack. It includes components for the backend server, frontend application, user authentication, real-time messaging, and additional features to enhance the chat experience.
    - Technologies Used: NodeJS, SocketIO, MongoDB, React
    
