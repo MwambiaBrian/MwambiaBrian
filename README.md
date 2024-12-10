@@ -8,21 +8,18 @@ Welcome to my GitHub profile—let's create, innovate, and collaborate!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwambiabrian&label=Profile%20views&color=0e75b6&style=flat" alt="mwambiabrian" /> </p>
 - 🎓 I hold a computer diploma from Kenyatta University.
 
--🌱 I’m currently learning Nestjs, GrapgQL, and Cloud Computing 
+-🌱 I’m currently learning Cloud Computing 
 - 💡 Interests: Developing scalable web applications, creating APIs, and implementing efficient cloud solutions.
 - 💬 Areas of Expertise: Full-stack development, software design, and real-time system integrations.
 -📫 Contact: brianmwambia3@gmail.com
 
-<h3 align="left">What I’m Exploring:</h3>
-- Building microservices with NestJS and GraphQL for scalable solutions.
-- Enhancing skills in real-time data streaming and event-driven architecture.
-- Delving deeper into cloud-native application development and CI/CD pipelines.
+
 
 <h3 align="left">Languages,Libraries, Frameworks and Tools:</h3>
 
-- **Programming Languages**: JavaScript, Python,C#.
-- **Web Development**: React.js, Next.js, Node.js, NestJS.
-- **API Development**: RESTful APIs, GraphQL.
+- **Programming Languages**: C#, JavaScript Python.
+- **Web Development**: .NET Core,React.js,Node.js, NestJS.
+- **API Development**: RESTful APIs,
 - **Databases**: PostgreSQL, MongoDB, SQL Server, CosmosDB. 
 - **Cloud Platforms**: Microsoft Azure, Google Cloud Platform, AWS.
 - **DevOps & CI/CD**:  GitHub Actions, Docker, Kubernetes, Jenkins,.
