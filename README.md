@@ -1,6 +1,6 @@
 [![MasterHead](https://th.bing.com/th/id/OIP.2eCCRFnphgA99qzIQi2HqwHaGJ?w=5531&h=4586&rs=1&pid=ImgDetMain)](https://brian-mwambia.onrender.com/)
 <h1 align="center">Hi there, my name is Brian Mwambia(AbdulMalik)! 👋</h1>
-<h3 align="center">I am a passionate Software Developer and Data Enthusiast based in Nairobi, Kenya, dedicated to crafting innovative, data-driven software solutions. With a strong computer science foundation and a growing software development expertise, I thrive on building applications and systems that solve real-world challenges and drive business success.
+<h3 align="center">I am a passionate Software Developer(Backend Developer) based in Nairobi, Kenya, dedicated to crafting innovative, data-driven software solutions. With a strong computer science foundation and a growing software development expertise, I thrive on building applications and systems that solve real-world challenges and drive business success.
 
 Welcome to my GitHub profile—let's create, innovate, and collaborate!</h3>
 <img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
@@ -8,7 +8,7 @@ Welcome to my GitHub profile—let's create, innovate, and collaborate!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwambiabrian&label=Profile%20views&color=0e75b6&style=flat" alt="mwambiabrian" /> </p>
 - 🎓 I hold a computer diploma from Kenyatta University.
 
--🌱 I’m currently learning Cloud Computing 
+-🌱 I’m currently learning Nestjs and GraphQL
 - 💡 Interests: Developing scalable web applications, creating APIs, and implementing efficient cloud solutions.
 - 💬 Areas of Expertise: Full-stack development, software design, and real-time system integrations.
 -📫 Contact: brianmwambia3@gmail.com
@@ -17,12 +17,12 @@ Welcome to my GitHub profile—let's create, innovate, and collaborate!</h3>
 
 <h3 align="left">Languages,Libraries, Frameworks and Tools:</h3>
 
-- **Programming Languages**: C#, JavaScript Python.
-- **Web Development**: .NET Core,React.js,Node.js, NestJS.
-- **API Development**: RESTful APIs,
-- **Databases**: PostgreSQL, MongoDB, SQL Server, CosmosDB. 
-- **Cloud Platforms**: Microsoft Azure, Google Cloud Platform, AWS.
-- **DevOps & CI/CD**:  GitHub Actions, Docker, Kubernetes, Jenkins,.
+- **Programming Languages**: JavaScript, C#, Python.
+- **Web Development**: Node.js, NestJS, .NET Core, React
+- **API Development**: RESTful APIs, GraphQL.
+- **Databases**: MongoDB, PostgreSQL, SQL Server, CosmosDB. 
+- **Cloud Platforms**: Microsoft Azure, Google Cloud Platform.
+- **DevOps & CI/CD**:  GitHub Actions, Docker, Kubernetes.
 - **Version Control**: Git, GitHub, Bitbucket.
 - **Project Management**: Agile, Jira, Confluence.
 - **Version Control **:  Git, GitHub, BitBucket.
