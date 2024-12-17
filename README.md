@@ -6,7 +6,7 @@ Welcome to my GitHub profile—let's create, innovate, and collaborate!</h3>
 <img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwambiabrian&label=Profile%20views&color=0e75b6&style=flat" alt="mwambiabrian" /> </p>
-- 🎓 I hold a computer diploma from Kenyatta University.
+- 🎓 I hold a degree in computer science from Kenyatta University.
 
 -🌱 I’m currently learning cloud computing.
 - 💡 Interests: Developing scalable web applications, creating APIs, and implementing efficient cloud solutions.
@@ -18,9 +18,9 @@ Welcome to my GitHub profile—let's create, innovate, and collaborate!</h3>
 <h3 align="left">Languages,Libraries, Frameworks and Tools:</h3>
 
 - **Programming Languages**: C#, JavaScript
-- **Web Development**: .NET Core, Node.js,React
+- **Web Development**: ASP NET WebAPI, Express,React
 - **API Development**: RESTful APIs, GraphQL.
-- **Databases**: SQL Server, CosmosDB. 
+- **Databases**: SQL Server, MongoDB. 
 - **Cloud Platforms**: Microsoft Azure, Google Cloud Platform.
 - **DevOps & CI/CD**:  GitHub Actions, Docker, Kubernetes.
 - **Version Control**: Git, GitHub.
