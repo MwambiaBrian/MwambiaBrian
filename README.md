@@ -1,6 +1,6 @@
 [![MasterHead](https://th.bing.com/th/id/OIP.2eCCRFnphgA99qzIQi2HqwHaGJ?w=5531&h=4586&rs=1&pid=ImgDetMain)](https://brian-mwambia.onrender.com/)
-<h1 align="center">Hi there, my name is Brian Mwambia(AbdulMalik)! 👋</h1>
-<h3 align="center">I am a passionate ASP.NET Core Software Developer based in Nairobi, Kenya, dedicated to crafting innovative software solutions. With a strong computer science foundation and a growing software development expertise, I thrive on building applications and systems that solve real-world challenges and drive business success.
+<h1 align="center">Hi there, my name is Brian Mwambia Njoka! 👋</h1>
+<h3 align="center">A committed Software Developer with 1 year of experience in building and maintaining scalable web applications. He is passionate about web development, with a clear goal of becoming a well-rounded and indispensable professional. A  strong communicator and dedicated team player, he is driven by a life-long aspiration to develop impactful software solutions and real-world challenges, such as healthcare applications, educational platforms, and AI-powered applications.
 
 Welcome to my GitHub profile—let's create, innovate, and collaborate!</h3>
 <img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
