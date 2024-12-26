@@ -1,6 +1,6 @@
 [![MasterHead](https://th.bing.com/th/id/OIP.2eCCRFnphgA99qzIQi2HqwHaGJ?w=5531&h=4586&rs=1&pid=ImgDetMain)](https://brian-mwambia.onrender.com/)
 <h1 align="center">Hi there, my name is Brian Mwambia Njoka! 👋</h1>
-<h3 align="center">A committed Software Developer and a data scientist with experience in building and maintaining scalable web applications. He is passionate about web development, with a clear goal of becoming a well-rounded and indispensable professional. A  strong communicator and dedicated team player, he is driven by a life-long aspiration to develop impactful software solutions and real-world challenges, such as healthcare applications, educational platforms, and AI-powered applications.
+<h3 align="center">A committed Software Engineer and a Data Enthusiast with experience in building and maintaining scalable web applications. He is passionate about web development, with a clear goal of becoming a well-rounded and indispensable professional. A  strong communicator and dedicated team player, he is driven by a life-long aspiration to develop impactful software solutions and real-world challenges, such as healthcare applications, educational platforms, and AI-powered applications.
 
 Welcome to my GitHub profile—let's create, innovate, and collaborate!</h3>
 <img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
@@ -8,19 +8,20 @@ Welcome to my GitHub profile—let's create, innovate, and collaborate!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwambiabrian&label=Profile%20views&color=0e75b6&style=flat" alt="mwambiabrian" /> </p>
 - 🎓 I hold a degree in computer science from Kenyatta University.
 
--🌱 I’m currently learning cloud computing and data science.
+-🌱 I’m currently learning cloud computing and Data Science, Machine Learning and AI.
 - 💡 Interests: Developing scalable web applications, creating APIs, and implementing efficient cloud solutions.
-- 💬 Areas of Expertise: Full-stack development, software design, and real-time system integrations.
+- 💬 Areas of Expertise: Software Engineering and Data Analysis.
 -📫 Contact: brianmwambia3@gmail.com
 
 
 
 <h3 align="left">Languages,Libraries, Frameworks and Tools:</h3>
 
-- **Programming Languages**: C#, JavaScript
-- **Web Development**: ASP NET WebAPI, Express,React
+- **Programming Languages**: C#, JavaScript, Python
+- **Web Development**: ASP NET WebAPI, Express, Flask, React
 - **API Development**: RESTful APIs, GraphQL.
-- **Databases**: SQL Server, MongoDB. 
+- **Data Analysis** : PowerBI, Excel, SQL, Pandas
+- **Databases**: SQL Server, MySQL MongoDB. 
 - **Cloud Platforms**: Microsoft Azure, Google Cloud Platform.
 - **DevOps & CI/CD**:  GitHub Actions, Docker, Kubernetes.
 - **Version Control**: Git, GitHub.
