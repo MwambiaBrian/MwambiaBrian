@@ -1,6 +1,6 @@
 [![MasterHead](https://th.bing.com/th/id/OIP.2eCCRFnphgA99qzIQi2HqwHaGJ?w=5531&h=4586&rs=1&pid=ImgDetMain)](https://brian-mwambia.onrender.com/)
 <h1 align="center">Hi there, my name is Brian Mwambia Njoka! 👋</h1>
-<h3 align="center">A committed Software Engineer and a Data Enthusiast with experience in building and maintaining scalable web applications. He is passionate about web development, with a clear goal of becoming a well-rounded and indispensable professional. A  strong communicator and dedicated team player, he is driven by a life-long aspiration to develop impactful software solutions and real-world challenges, such as healthcare applications, educational platforms, and AI-powered applications.
+<h3 align="center">A committed Software Developer with 1 year of experience in building and maintaining scalable web applications. He is passionate about web development and has a growing interest in data engineering and Machine Learning   with a clear goal of becoming a well-rounded and indispensable professional. A strong communicator and dedicated team player, he is driven by a life-long aspiration to develop impactful software solutions addressing real-world challenges, such as healthcare applications, educational platforms, AI-powered applications, and data-driven insights.
 
 Welcome to my GitHub profile—let's create, innovate, and collaborate!</h3>
 <img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
@@ -8,7 +8,7 @@ Welcome to my GitHub profile—let's create, innovate, and collaborate!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwambiabrian&label=Profile%20views&color=0e75b6&style=flat" alt="mwambiabrian" /> </p>
 - 🎓 I hold a degree in computer science from Kenyatta University.
 
--🌱 I’m currently learning cloud computing and Data Science, Machine Learning and AI.
+-🌱 I’m currently learning Machine Learning and Data Engineering.
 - 💡 Interests: Developing scalable web applications, creating APIs, and implementing efficient cloud solutions.
 - 💬 Areas of Expertise: Software Engineering and Data Analysis.
 -📫 Contact: brianmwambia3@gmail.com
