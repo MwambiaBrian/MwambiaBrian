@@ -1,4 +1,4 @@
-[![MasterHead](https://th.bing.com/th/id/OIP.2eCCRFnphgA99qzIQi2HqwHaGJ?w=5531&h=4586&rs=1&pid=ImgDetMain)]
+[![MasterHead]([https://th.bing.com/th/id/OIP.2eCCRFnphgA99qzIQi2HqwHaGJ?w=5531&h=4586&rs=1&pid=ImgDetMain](https://th.bing.com/th/id/OIP.P66DTFUvWahOhCKaJCNQ0AAAAA?rs=1&pid=ImgDetMain))]
 
 <h1 align="center">👋 Hi, I’m Brian Mwambia a
  Backend Engineer passionate about scalable systems and clean architecture.
@@ -10,7 +10,7 @@ Welcome to my GitHub profile—let's create, innovate, and collaborate!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwambiabrian&label=Profile%20views&color=0e75b6&style=flat" alt="mwambiabrian" /> </p>
 - 🎓 I hold a degree in computer science from Kenyatta University.
 
--🌱 I’m currently learning Nestjs and Cloud computing.
+-🌱 I’m currently learning Nestjs and Blockchain development.
 - 💡 Interests: Developing scalable web applications, creating APIs, and implementing efficient cloud solutions.
 - 💬 Areas of Expertise: Software Engineering and Data Analysis.
 -📫 Contact: brianmwambia3@gmail.com
