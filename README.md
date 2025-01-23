@@ -36,9 +36,19 @@ Welcome to my GitHub profile—let's create, innovate, and collaborate!</h3>
   ## Projects
 
 Here are some projects I've been working on: 
-1. [Tools management backend application]([Link to project](https://github.com/MwambiaBrian/dotnet-microservices))
+1. [Quiz Manager Application]([Link to project](https://github.com/MwambiaBrian/nestjs-quiz-manager))
    - Description: A backend application for developers' tools management. A project aimed at demonstrating the implementation of microservices architecture using .NET technologies.
    - Technologies Used: C#/.NET, RabbitMQ, mssql,Docker
+2. [Real-time Chat Application]([Link to project](https://github.com/MwambiaBrian/chat-mern-app))
+   - Description: A backend application for developers' tools management. A project aimed at demonstrating the implementation of microservices architecture using .NET technologies.
+   - Technologies Used: C#/.NET, RabbitMQ, mssql,Docker
+3. [Real Estate Application]([Link to project](https://github.com/MwambiaBrian/chat-mern-app))
+   - Description: A backend application for developers' tools management. A project aimed at demonstrating the implementation of microservices architecture using .NET technologies.
+   - Technologies Used: C#/.NET, RabbitMQ, mssql,Docker
+ 4. [Project Manager App]([Link to project](https://github.com/MwambiaBrian/chat-mern-app))
+   - Description: A backend application for developers' tools management. A project aimed at demonstrating the implementation of microservices architecture using .NET technologies.
+   - Technologies Used: C#/.NET, RabbitMQ, mssql,Docker
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/brian mwambia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian mwambia" height="30" width="40" /></a>
@@ -47,7 +57,7 @@ Here are some projects I've been working on:
 
 - Personal Website: [Brian Mwambia](https://brian-mwambia.onrender.com/)
 
-- Instagram: [20fast_it](https://www.instagram.com/20fast_it/?hl=en)
+
 
 
 
