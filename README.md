@@ -1,7 +1,9 @@
 [![MasterHead](https://th.bing.com/th/id/OIP.2eCCRFnphgA99qzIQi2HqwHaGJ?w=5531&h=4586&rs=1&pid=ImgDetMain)](https://brian-mwambia.onrender.com/)
 
-<h1 align="center">Hi there, my name is Brian Mwambia Njoka! 👋</h1>
-<h3 align="center">A committed Software Developer with 1 year of experience in building and maintaining scalable web applications. He is passionate about web development and has a growing interest in data analysis and Machine Learning   with a clear goal of becoming a well-rounded and indispensable professional. A strong communicator and dedicated team player, he is driven by a life-long aspiration to develop impactful software solutions addressing real-world challenges, such as healthcare applications, educational platforms, AI-powered applications, and data-driven insights.
+<h1 align="center">👋 Hi, I’m Brian Mwambia
+🚀 Backend Engineer | 🖥️ Passionate about scalable systems and clean architecture
+
+💻 I specialize in Node.js and love building efficient, high-performing backends for modern applications.
 
 Welcome to my GitHub profile—let's create, innovate, and collaborate!</h3>
 <img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
