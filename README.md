@@ -1,8 +1,7 @@
 [![MasterHead](https://th.bing.com/th/id/OIP.2eCCRFnphgA99qzIQi2HqwHaGJ?w=5531&h=4586&rs=1&pid=ImgDetMain)](https://brian-mwambia.onrender.com/)
 
-<h1 align="center">👋 Hi, I’m Brian Mwambia
-🚀 Backend Engineer | 🖥️ Passionate about scalable systems and clean architecture
-
+<h1 align="center">👋 Hi, I’m Brian Mwambia a
+ Backend Engineer passionate about scalable systems and clean architecture.
 💻 I specialize in Node.js and love building efficient, high-performing backends for modern applications.
 
 Welcome to my GitHub profile—let's create, innovate, and collaborate!</h3>
@@ -20,11 +19,11 @@ Welcome to my GitHub profile—let's create, innovate, and collaborate!</h3>
 
 <h3 align="left">Languages,Libraries, Frameworks and Tools:</h3>
 
-- **Programming Languages**: C#, JavaScript, Python
-- **Web Development**: ASP NET WebAPI, Express, Flask, React
-- **API Development**: RESTful APIs, GraphQL.
-- **Data Analysis** : PowerBI, Excel, SQL, Pandas
-- **Databases**: SQL Server, MySQL MongoDB. 
+- **Programming Languages**:TypeScript, SQL
+   - **API Development**: Node.js, Express, NestJS.
+- **Web Development**: HTML, JavaScript, CSS
+- 
+- **Databases**: MySQL, PostgreSQL, MongoDB. 
 - **Cloud Platforms**: Microsoft Azure, Google Cloud Platform.
 - **DevOps & CI/CD**:  GitHub Actions, Docker, Kubernetes.
 - **Version Control**: Git, GitHub.
