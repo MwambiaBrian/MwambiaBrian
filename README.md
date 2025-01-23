@@ -1,4 +1,7 @@
-[MasterHead]([https://th.bing.com/th/id/OIP.2eCCRFnphgA99qzIQi2HqwHaGJ?w=5531&h=4586&rs=1&pid=ImgDetMain](https://th.bing.com/th/id/OIP.P66DTFUvWahOhCKaJCNQ0AAAAA?rs=1&pid=ImgDetMain))
+## MasterHead  
+
+![MasterHead](https://th.bing.com/th/id/OIP.P66DTFUvWahOhCKaJCNQ0AAAAA?rs=1&pid=ImgDetMain)  
+
 
 <h1 align="center">👋 Hi, I’m Brian Mwambia a
  Backend Engineer passionate about scalable systems and clean architecture.
