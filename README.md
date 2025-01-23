@@ -1,4 +1,4 @@
-[![MasterHead](https://th.bing.com/th/id/OIP.2eCCRFnphgA99qzIQi2HqwHaGJ?w=5531&h=4586&rs=1&pid=ImgDetMain)](https://brian-mwambia.onrender.com/)
+[![MasterHead](https://th.bing.com/th/id/OIP.2eCCRFnphgA99qzIQi2HqwHaGJ?w=5531&h=4586&rs=1&pid=ImgDetMain)]
 
 <h1 align="center">👋 Hi, I’m Brian Mwambia a
  Backend Engineer passionate about scalable systems and clean architecture.
@@ -20,9 +20,8 @@ Welcome to my GitHub profile—let's create, innovate, and collaborate!</h3>
 <h3 align="left">Languages,Libraries, Frameworks and Tools:</h3>
 
 - **Programming Languages**:TypeScript, SQL
-   - **API Development**: Node.js, Express, NestJS.
+- **API Development**: Node.js, Express, NestJS.
 - **Web Development**: HTML, JavaScript, CSS
-- 
 - **Databases**: MySQL, PostgreSQL, MongoDB. 
 - **Cloud Platforms**: Microsoft Azure, Google Cloud Platform.
 - **DevOps & CI/CD**:  GitHub Actions, Docker, Kubernetes.
