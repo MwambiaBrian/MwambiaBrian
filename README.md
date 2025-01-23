@@ -40,17 +40,17 @@ Here are some projects I've been working on:
    - Technologies Used: Node.js, NestJS, TypeORM, MySQL
    - 
 2. **[Real-time Chat Application]([Code](https://github.com/MwambiaBrian/chat-mern-app))**
-3. - This is a real-time chat application built using the MERN stack (MongoDB, Express.js, React, Node.js) and Socket.io for real-time communication.
+   - This is a real-time chat application built using the MERN stack (MongoDB, Express.js, React, Node.js) and Socket.io for real-time communication.
    -  The application allows users to interact in live chat rooms with instantaneous message delivery and seamless user experiences.
    - Technologies Used: Node.js, ExpressJS, WebSockets, MongoDB, React
    - 
-4. **[Real Estate Application]([Code]([https://github.com/MwambiaBrian/chat-mern-app](https://github.com/MwambiaBrian/Real-estate))**
-5. - This is a full-stack real estate application built with the MERN stack (MongoDB, Express.js, React, Node.js).
+3. **[Real Estate Application]([Code]([https://github.com/MwambiaBrian/chat-mern-app](https://github.com/MwambiaBrian/Real-estate))**
+   - This is a full-stack real estate application built with the MERN stack (MongoDB, Express.js, React, Node.js).
    - The application allows users to browse, search, and filter property listings, as well as post and manage their own property listings.
    - It's designed to provide a seamless experience for buyers, renters, and property owners.
    - Technologies Used: Node.js, ExpressJS,RESTful API, MongoDB, React
      
-6. **[Client & Project Manager App]([Code](https://github.com/MwambiaBrian/project-mgmt-app))**
+4. **[Client & Project Manager App]([Code](https://github.com/MwambiaBrian/project-mgmt-app))**
    - This is a full-stack Projects and Client Management Application built with the MERN stack (MongoDB, Express.js, React, Node.js) and GraphQL for API queries and mutations.
    - The application enables businesses to efficiently manage client information, track projects, and oversee their progress in a single platform.
    - Technologies Used: Node.js, ExpressJS, GraphQL,MongoDB, React
