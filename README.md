@@ -37,17 +37,13 @@ Welcome to my GitHub profile—let's create, innovate, and collaborate!</h3>
 
 Here are some projects I've been working on: 
 1. [Quiz Manager Application]([Link to project](https://github.com/MwambiaBrian/nestjs-quiz-manager))
-   - Description: A backend application for developers' tools management. A project aimed at demonstrating the implementation of microservices architecture using .NET technologies.
-   - Technologies Used: C#/.NET, RabbitMQ, mssql,Docker
+   - Technologies Used: Node.js, NestJS, TypeORM, MySQL
 2. [Real-time Chat Application]([Link to project](https://github.com/MwambiaBrian/chat-mern-app))
-   - Description: A backend application for developers' tools management. A project aimed at demonstrating the implementation of microservices architecture using .NET technologies.
-   - Technologies Used: C#/.NET, RabbitMQ, mssql,Docker
-3. [Real Estate Application]([Link to project](https://github.com/MwambiaBrian/chat-mern-app))
-   - Description: A backend application for developers' tools management. A project aimed at demonstrating the implementation of microservices architecture using .NET technologies.
-   - Technologies Used: C#/.NET, RabbitMQ, mssql,Docker
+   - Technologies Used: Node.js, ExpressJS, WebSockets, MongoDB, React
+3. [Real Estate Application]([Link to project]([https://github.com/MwambiaBrian/chat-mern-app](https://github.com/MwambiaBrian/Real-estate)))
+   - Technologies Used: Node.js, ExpressJS,RESTful API, MongoDB, React
  4. [Project Manager App]([Link to project](https://github.com/MwambiaBrian/project-mgmt-app))
-   - Description: A backend application for developers' tools management. A project aimed at demonstrating the implementation of microservices architecture using .NET technologies.
-   - Technologies Used: C#/.NET, RabbitMQ, mssql,Docker
+   - Technologies Used: Node.js, ExpressJS, GraphQL,MongoDB, React
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
