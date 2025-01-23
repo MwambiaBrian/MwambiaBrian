@@ -45,7 +45,7 @@ Here are some projects I've been working on:
 3. [Real Estate Application]([Link to project](https://github.com/MwambiaBrian/chat-mern-app))
    - Description: A backend application for developers' tools management. A project aimed at demonstrating the implementation of microservices architecture using .NET technologies.
    - Technologies Used: C#/.NET, RabbitMQ, mssql,Docker
- 4. [Project Manager App]([Link to project](https://github.com/MwambiaBrian/chat-mern-app))
+ 4. [Project Manager App]([Link to project](https://github.com/MwambiaBrian/project-mgmt-app))
    - Description: A backend application for developers' tools management. A project aimed at demonstrating the implementation of microservices architecture using .NET technologies.
    - Technologies Used: C#/.NET, RabbitMQ, mssql,Docker
  
