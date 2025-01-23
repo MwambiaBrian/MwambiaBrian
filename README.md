@@ -20,7 +20,7 @@ Welcome to my GitHub profile—let's create, innovate, and collaborate!</h3>
 <h3 align="left">Languages,Libraries, Frameworks and Tools:</h3>
 
 - **Programming Languages**:TypeScript, SQL
-- **API Development**: Node.js, Express, NestJS.
+- **Application Server Development**: Node.js, Express, NestJS.
 - **Web Development**: HTML, JavaScript, CSS
 - **Databases**: MySQL, PostgreSQL, MongoDB. 
 - **Cloud Platforms**: Microsoft Azure, Google Cloud Platform.
