@@ -44,7 +44,7 @@ Here are some projects I've been working on:
    -  The application allows users to interact in live chat rooms with instantaneous message delivery and seamless user experiences.
    - Technologies Used: Node.js, ExpressJS, WebSockets, MongoDB, React
    - 
-3. **[Real Estate Application]([Code]([https://github.com/MwambiaBrian/chat-mern-app](https://github.com/MwambiaBrian/Real-estate))**
+3. ### [Real Estate Application]([Code]([https://github.com/MwambiaBrian/chat-mern-app](https://github.com/MwambiaBrian/Real-estate)) 
    - This is a full-stack real estate application built with the MERN stack (MongoDB, Express.js, React, Node.js).
    - The application allows users to browse, search, and filter property listings, as well as post and manage their own property listings.
    - It's designed to provide a seamless experience for buyers, renters, and property owners.
