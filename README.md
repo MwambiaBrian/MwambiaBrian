@@ -1,6 +1,9 @@
-## MasterHead  
 
-![MasterHead](https://th.bing.com/th/id/OIP.P66DTFUvWahOhCKaJCNQ0AAAAA?rs=1&pid=ImgDetMain)  
+
+<img src="https://th.bing.com/th/id/OIP.P66DTFUvWahOhCKaJCNQ0AAAAA?rs=1&pid=ImgDetMain" alt="MasterHead" style="width: 100%; height: auto;">
+
+
+
 
 
 <h1 align="center">👋 Hi, I’m Brian Mwambia a
