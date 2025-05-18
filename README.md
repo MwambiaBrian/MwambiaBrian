@@ -6,7 +6,7 @@
 
 
 
-<h1 align="center">👋 Hi, my name is Brian Mwambia.A
+<h1 align="center">👋 Hi, my name is Brian(AbdulMalik) Mwambia.A
  Software Engineer interested in designing and building scalable systems.
 💻 I’m a specialist in Node.js and love building efficient, high-performing backends for modern applications.
 
