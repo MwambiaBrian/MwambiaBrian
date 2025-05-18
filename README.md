@@ -6,26 +6,26 @@
 
 
 
-<h1 align="center">👋 Hi, I’m Brian Mwambia a
- Backend Engineer passionate about scalable systems and clean architecture.
-💻 I specialize in Node.js and love building efficient, high-performing backends for modern applications.
+<h1 align="center">👋 Hi, my name is Brian Mwambia.A
+ Software Engineer interested in designing and building scalable systems.
+💻 I’m a specialist in Node.js and love building efficient, high-performing backends for modern applications.
 
 Welcome to my GitHub profile—let's create, innovate, and collaborate!</h3>
 <img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwambiabrian&label=Profile%20views&color=0e75b6&style=flat" alt="mwambiabrian" /> </p>
-- 🎓 I hold a degree in computer science from Kenyatta University.
+- 🎓 I’m a Computer Science degree holder from Kenyatta University.
 
--🌱 I’m currently learning Nestjs and Blockchain development.
-- 💡 Interests: Developing scalable web applications, creating APIs, and implementing efficient cloud solutions.
-- 💬 Areas of Expertise: Software Engineering and Data Analysis.
+-🌱 I’m currently learning NestJS and Data skills.
+- 💡 Interests: I'm interested in developing scalable web applications, creating APIs, and implementing efficient cloud solutions.
+- 💬 Areas of Expertise: Software Engineering and Project Management.
 -📫 Contact: brianmwambia3@gmail.com
 
 
 
 <h3 align="left">Languages,Libraries, Frameworks and Tools:</h3>
 
-- **Programming Languages**:TypeScript, SQL
+- **Programming Languages**:TypeScript, Python, C#, SQL
 - **Application Server Development**: Node.js, Express, NestJS.
 - **Web Development**: HTML, JavaScript, CSS
 - **Databases**: MySQL, PostgreSQL, MongoDB. 
