@@ -15,7 +15,7 @@ Welcome to my GitHub profile—let's create, innovate, and collaborate!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwambiabrian&label=Profile%20views&color=0e75b6&style=flat" alt="mwambiabrian" /> </p>
 - 🎓 I’m a Computer Science degree holder from Kenyatta University.
 
--🌱 I’m currently learning NestJS and Data skills.
+-🌱 I’m currently learning domain-driven design (DDD) and microservice architectures
 - 💡 Interests: I'm interested in developing scalable web applications, creating APIs, and implementing efficient cloud solutions.
 - 💬 Areas of Expertise: Software Engineering and Project Management.
 -📫 Contact: brianmwambia3@gmail.com
