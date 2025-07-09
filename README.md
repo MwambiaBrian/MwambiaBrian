@@ -6,9 +6,8 @@
 
 
 
-<h1 align="center">👋 Hi, my name is Brian(AbdulMalik) Mwambia.A
- Software Engineer interested in designing and building scalable systems.
-💻 I’m a specialist in Node.js and love building efficient, high-performing backends for modern applications.
+<h1 align="center">👋 Hi, my name is Brian(AbdulMalik) Mwambia.
+Enthusiastic .NET Developer with a strong foundation in building enterprise-grade applications using C#, ASP.NET Core, and SQL Server. Seeking to contribute to impactful business solutions while deepening expertise in cloud-native technologies like Azure.
 
 Welcome to my GitHub profile—let's create, innovate, and collaborate!</h3>
 <img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
