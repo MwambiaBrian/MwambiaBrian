@@ -7,7 +7,7 @@
 
 
 <h1 align="center">👋 Hi, my name is Brian(AbdulMalik) Mwambia.
-Enthusiastic .NET Developer with a strong foundation in building enterprise-grade applications using C#, ASP.NET Core, and SQL Server. Seeking to contribute to impactful business solutions while deepening expertise in cloud-native technologies like Azure.
+Enthusiastic Software Developer with a strong foundation in building enterprise-grade applications using Python and Frappe framework. Seeking to contribute to impactful business solutions while deepening expertise in cloud-native technologies like Azure.
 
 Welcome to my GitHub profile—let's create, innovate, and collaborate!</h3>
 <img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
@@ -15,7 +15,7 @@ Welcome to my GitHub profile—let's create, innovate, and collaborate!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwambiabrian&label=Profile%20views&color=0e75b6&style=flat" alt="mwambiabrian" /> </p>
 - 🎓 I’m a Computer Science degree holder from Kenyatta University.
 
--🌱 I’m currently learning domain-driven design (DDD) and microservice architectures
+-🌱 I’m currently learning Enterprise Resource Planning systems using Frappe.
 - 💡 Interests: I'm interested in developing scalable web applications, creating APIs, and implementing efficient cloud solutions.
 - 💬 Areas of Expertise: Software Engineering and Project Management.
 -📫 Contact: brianmwambia3@gmail.com
@@ -24,8 +24,8 @@ Welcome to my GitHub profile—let's create, innovate, and collaborate!</h3>
 
 <h3 align="left">Languages,Libraries, Frameworks and Tools:</h3>
 
-- **Programming Languages**:TypeScript, Python, C#, SQL
-- **Application Server Development**: Node.js, Express, NestJS.
+- **Programming Languages**:Python, JavaScript, SQL
+- **Application Server Development**: Frappe, Node.js, NestJS.
 - **Web Development**: HTML, JavaScript, CSS
 - **Databases**: MySQL, PostgreSQL, MongoDB. 
 - **Cloud Platforms**: Microsoft Azure, Google Cloud Platform.
