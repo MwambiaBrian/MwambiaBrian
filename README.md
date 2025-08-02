@@ -7,7 +7,7 @@
 
 
 <h1 align="center">👋 Hi, my name is Brian Mwambia.
-Enthusiastic Software Developer with a strong foundation in building enterprise-grade applications using Python and Frappe framework. Seeking to contribute to impactful business solutions while deepening expertise in cloud-native technologies like Azure.
+Enthusiastic Software Developer with a strong foundation in building enterprise-grade applications using Python and Frappe framework. Seeking to contribute to impactful business solutions while deepening expertise in technologies like Frappe Cloud.
 
 Welcome to my GitHub profile—let's create, innovate, and collaborate!</h3>
 <img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
@@ -16,8 +16,7 @@ Welcome to my GitHub profile—let's create, innovate, and collaborate!</h3>
 - 🎓 I’m a Computer Science degree holder from Kenyatta University.
 
 -🌱 I’m currently learning Enterprise Resource Planning systems using Frappe.
-- 💡 Interests: I'm interested in developing scalable web applications, creating APIs, and implementing efficient cloud solutions.
-- 💬 Areas of Expertise: Software Engineering and Project Management.
+- 💡 Interests: I'm passionate about building business applications with the Frappe Framework, customizing ERPNext for real-world use cases, automating workflows, and designing scalable, maintainable ERP solutions.=
 -📫 Contact: brianmwambia3@gmail.com
 
 
