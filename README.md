@@ -6,7 +6,7 @@
 
 
 
-<h1 align="center">👋 Hi, my name is Brian(AbdulMalik) Mwambia.
+<h1 align="center">👋 Hi, my name is Brian Mwambia.
 Enthusiastic Software Developer with a strong foundation in building enterprise-grade applications using Python and Frappe framework. Seeking to contribute to impactful business solutions while deepening expertise in cloud-native technologies like Azure.
 
 Welcome to my GitHub profile—let's create, innovate, and collaborate!</h3>
