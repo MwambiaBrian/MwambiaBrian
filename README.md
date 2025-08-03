@@ -41,10 +41,11 @@ Welcome to my GitHub profile—let's create, innovate, and collaborate!</h3>
 
 Here are some projects I've been working on:  
 
-1. [Quiz Manager Application](https://github.com/MwambiaBrian/nestjs-quiz-manager)
-   - This is a Quiz Manager Application designed to create, manage, and take quizzes.
-   - NestJS powers the application for developing a scalable and maintainable RESTful API and uses MySQL as the database for storing quizzes, questions, and user responses.
-   - Technologies Used: Node.js, NestJS, TypeORM, MySQL  
+1. [Airplane Ticket System](https://github.com/MwambiaBrian/Airplane-Mode)
+   - A learning-focused Frappe app that models a flight ticketing system. Built to teach foundational ERP concepts such as DocTypes, controllers, custom validations, naming rules
+  
+2. [Xelectronics](https://github.com/MwambiaBrian/Xelectronics-)  
+   - Warehouse Management System for X Electronics A modular inventory and warehouse management solution built with Frappe Framework. Features include real-time stock tracking, stateless ledger entries with moving average valuation, warehouse tree structures, and comprehensive reporting.
 
 3. [Real-time Chat Application](https://github.com/MwambiaBrian/chat-mern-app)  
    - This real-time chat application is built using the MERN stack (MongoDB, Express.js, React, Node.js) and Socket.io for real-time communication.  
